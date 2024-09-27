@@ -1,0 +1,10 @@
+.gold-currencies-table {
+  width: 100%;
+  
+}
+
+.gold-currencies-table th, .gold-currencies-table td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #c3c3c3;
+}
